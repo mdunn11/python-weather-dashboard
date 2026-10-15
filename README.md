@@ -35,6 +35,7 @@ Development Progress
 * [x]	GitHub repository created
 * [x]	Python .gitignore added
 * [x]	Project documentation prepared
+* [x]	MIT License added
 * [ ]	Weather API integration
 * [ ]	JSON processing
 * [ ]	Location search
@@ -50,13 +51,15 @@ Development Approach
 
 This project is being developed incrementally as part of a technical learning portfolio. AI-assisted tools may support explanations, code review, testing, and troubleshooting.
 
-Copyright and Ownership
+License and Copyright
 
-Copyright © 2026 Marquita L. Dunn. All rights reserved.
+Copyright © 2026 Marquita L. Dunn.
 
-All original code, documentation, project structure, and related materials authored for this project are protected by copyright.
+This project is licensed under the MIT License. You are welcome to use, modify, and distribute the code in accordance with the license terms, including preserving the required copyright and license notices.
 
-No permission is granted to reproduce, distribute, modify, or commercially use original project materials without prior written authorization from the copyright owner.
+See the LICENSE file for the complete terms.
+
+⸻
 
 Author: Marquita L. Dunn
 GitHub: https://github.com/mdunn11
